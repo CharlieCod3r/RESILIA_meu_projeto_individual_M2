@@ -8,9 +8,9 @@
 ---
 - Execute o programa.
 - Será solicitada as 4 notas mínimas desejadas referentes à entrevista, teste teórico, teste prático e soft skills no processo seletivo.
-- Insira as notas desejadas.
+- Insira as notas desejadas e pressione ENTER.
 - Caso o programa encontre resultado(s) serão exibidos em ordem alfabética na tela.
 - Caso o programa não encontre nenhum resultado, será exibida a mensagem que não foi possível encontrar resultados com base nas notas que você solicitou.
 - Após busca tendo encontrado ou não por resultados, o programa irá perguntar se você deseja realizar uma nova pesquisa, digite 'sim' ou 'não' conforme desejar.
 
-***Cristhian M.***
+***Cristhian Monteiro***
