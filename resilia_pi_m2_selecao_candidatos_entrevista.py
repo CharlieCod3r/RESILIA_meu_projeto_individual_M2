@@ -7,6 +7,8 @@ def buscar_candidatos(resultados, nota_entrevista, nota_teorico, nota_pratica, n
             candidatos.append(candidato)
 
     return candidatos
+
+#Inserido um While para que após exibir o resultado de uma busca perguntar ao usuário se deseja realizar uma nova pesquisa.
 while True:
 
     #Entrada das notas mínimas informadas pelo usuario
